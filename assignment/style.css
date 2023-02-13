@@ -1,6 +1,10 @@
-body {
+html {
     background-image: url(./record.png);
+    /* Background-image repeats by defualt but i added background-repeat per assignment instructions*/
     background-repeat: repeat;
+}
+
+body {
     margin: 0;
 }
 
