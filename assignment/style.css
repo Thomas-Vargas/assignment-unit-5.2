@@ -1,2 +1,16 @@
+body {
+    background-image: url(./record.png);
+    background-repeat: repeat;
+    margin: 0;
+}
 
+.title {
+    background-color: slategray;
+    color: rgb(252, 249, 237);
+    text-align: center;
+}
 
+.info {
+    background-color: lightgray;
+    padding: 1em;
+}
